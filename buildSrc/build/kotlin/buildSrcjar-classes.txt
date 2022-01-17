@@ -1,0 +1,1 @@
+/home/cake/AndroidStudioProjects/DeteKTRules/buildSrc/build/classes/kotlin/main/dev/caiqueminhare/buildsrc/Version.class:/home/cake/AndroidStudioProjects/DeteKTRules/buildSrc/build/classes/kotlin/main/dev/caiqueminhare/buildsrc/config/AndroidConfig.class
